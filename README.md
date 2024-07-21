@@ -1,0 +1,1 @@
+Try to click on the jerry! If you catch jerry you win!
